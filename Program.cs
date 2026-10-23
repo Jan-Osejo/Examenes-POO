@@ -9,5 +9,8 @@
 //Ejercicio03 ej03 = new Ejercicio03();
 //ej03.ControlDeAsistencia();
 
-Ejercicio04 ej04 = new Ejercicio04();
-ej04.FilaDeAtencionDeUnaClinica();
+//Ejercicio04 ej04 = new Ejercicio04();
+//ej04.FilaDeAtencionDeUnaClinica();
+
+Ejercicio05 ej05 = new Ejercicio05();   
+ej05.InventarioDeUnaPapeleria();

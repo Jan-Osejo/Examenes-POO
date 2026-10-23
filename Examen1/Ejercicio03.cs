@@ -23,25 +23,6 @@ Requisitos:
     {
         public void ControlDeAsistencia()
         {
-            /*
-    Ejercicio 3 — Control de asistencia a un taller · 11 puntos
-Un taller de capacitación tiene 10 participantes. En el código, declare un arreglo de cadenas con los nombres de los
-participantes y un arreglo de booleanos con su asistencia (true = asistió, false = faltó). Use datos precargados; no los solicite
-al usuario.
-El programa debe:
-● Mostrar la lista de participantes con la leyenda «Asistió» o «Faltó», usando un ciclo for.
-● Contar y mostrar cuántos asistieron y cuántos faltaron.
-● Calcular y mostrar el porcentaje de asistencia.
-● Mostrar los nombres de quienes faltaron usando un ciclo foreach.
-● Solicitar un nombre y buscarlo con un ciclo for. Indicar si se encontró, la posición (empezando en 1) y si asistió. Si no se
-encontró, mostrar un mensaje.
-● Mostrar los nombres en orden inverso usando un ciclo for que recorra el arreglo desde el último índice hasta el primero.
-Página 2 de 4
-Requisitos:
-● Valide que el nombre ingresado para la búsqueda no esté vacío.
-● Usearreglos, for, foreach, condicionales y comparación de cadenas.
-● Nouse LINQ ni métodos que oculten el recorrido manual del arreglo
-    */
             string[] nombres = new string[] { "Juan", "Pedro", "Luis", "Marcos", "Carlos", "Daniel", "Fernando", "José", "Juan Carlos", "Manuel" };
             bool[] asistencia = new bool[] { true, false, true, false, true, false, true, false, true, false };
             int asistentes = 0;
