@@ -1,0 +1,15 @@
+C:\Examenes POO\ExamenU1\bin\Debug\net10.0\ExamenU1.exe
+C:\Examenes POO\ExamenU1\bin\Debug\net10.0\ExamenU1.deps.json
+C:\Examenes POO\ExamenU1\bin\Debug\net10.0\ExamenU1.runtimeconfig.json
+C:\Examenes POO\ExamenU1\bin\Debug\net10.0\ExamenU1.dll
+C:\Examenes POO\ExamenU1\bin\Debug\net10.0\ExamenU1.pdb
+C:\Examenes POO\ExamenU1\obj\Debug\net10.0\ExamenU1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examenes POO\ExamenU1\obj\Debug\net10.0\ExamenU1.AssemblyInfoInputs.cache
+C:\Examenes POO\ExamenU1\obj\Debug\net10.0\ExamenU1.AssemblyInfo.cs
+C:\Examenes POO\ExamenU1\obj\Debug\net10.0\ExamenU1.csproj.CoreCompileInputs.cache
+C:\Examenes POO\ExamenU1\obj\Debug\net10.0\ExamenU1.sourcelink.json
+C:\Examenes POO\ExamenU1\obj\Debug\net10.0\ExamenU1.dll
+C:\Examenes POO\ExamenU1\obj\Debug\net10.0\refint\ExamenU1.dll
+C:\Examenes POO\ExamenU1\obj\Debug\net10.0\ExamenU1.pdb
+C:\Examenes POO\ExamenU1\obj\Debug\net10.0\ExamenU1.genruntimeconfig.cache
+C:\Examenes POO\ExamenU1\obj\Debug\net10.0\ref\ExamenU1.dll
